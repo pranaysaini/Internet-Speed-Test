@@ -1,3 +1,6 @@
+#import speedtest module using "pip install speedtest-cli" command in terminal
+
+from tkinter import *
 import speedtest
 
 def speedcheck():
